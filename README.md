@@ -11,4 +11,5 @@ The project is broken down into multiple steps:
 * Build and Train an image classifier on this dataset.
 * Use the transfer learning technique to improve accuracy.
 * Use the trained model to perform inference on flower images.
+* Ceate an application that run from the command line
 
